@@ -1,14 +1,1 @@
-{
-  "12345678P": {
-    "hwid": "dbadc6176f3750b852838acdf4157aa5dd5e4f950e39dbd48b128ca1a3364ec9",
-    "activated": "2026-06-25T05:41:17.286534",
-    "added_by": "admin",
-    "status": "active"
-  },
-  "87654321B": {
-    "hwid": "98a7b089be19e645fe922b13531aaa05d4200948165c0159a0256d603f900b2d",
-    "activated": "2026-06-25T05:48:05.942747",
-    "added_by": "admin",
-    "status": "active"
-  }
-}
+{}
