@@ -26,15 +26,6 @@
     "device_hwid": "9eaaa0a6292bf52eb2c57d068705f06576d77b4f534057b2372a142f0d2b9c86",
     "device_name": "localhost"
   },
-  "PXL-INT5-PXGO": {
-    "license": "PXL-INT5-PXGO",
-    "expiry": "2026-06-30T18:18:43.393956",
-    "activated": "2026-06-25T18:18:43.394051",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": "0a8756b175713f8e6ed5cfd61078dc32f6e338c90b6cbea6f353fe523739808f",
-    "device_name": "localhost"
-  },
   "PXL-LEXI-A6F5": {
     "license": "PXL-LEXI-A6F5",
     "expiry": "2026-07-22T23:59:59.000000",
