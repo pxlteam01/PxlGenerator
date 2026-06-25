@@ -38,10 +38,10 @@
   "PXL-LEXI-A6F5": {
     "license": "PXL-LEXI-A6F5",
     "expiry": "2026-07-22T23:59:59.000000",
-    "activated": "2026-06-25T20:37:36.848394",
+    "activated": "2026-06-25T20:51:43.600977",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": "8143b6c5ba6e7d92515c8279ff033bb2a640d96193b8f4d7de6f780d0279dcfe",
+    "device_hwid": "86c4236c0689f4ae25d94a6a732c11aef36df091552168d51490fc32980cd631",
     "device_name": "localhost"
   }
 }
