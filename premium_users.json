@@ -32,7 +32,7 @@
     "activated": "2026-06-25T20:51:43.600977",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": "86c4236c0689f4ae25d94a6a732c11aef36df091552168d51490fc32980cd631",
-    "device_name": "localhost"
+    "device_hwid": null,
+    "device_name": null
   }
 }
