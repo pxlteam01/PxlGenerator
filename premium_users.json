@@ -7,14 +7,5 @@
     "status": "active",
     "device_hwid": "ef9e91d859f4e21cac1aea430ed17c995d0ac52a54a6746fc9e92d88b6488c83",
     "device_name": "localhost"
-  },
-  "MANZYKEY": {
-    "license": "MANZYKEY",
-    "expiry": "2026-07-25T15:43:11.852049",
-    "activated": "2026-06-25T15:43:11.852172",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": "2cb74fc470e5ad9b67d52c0e29feff83cb76eff512c8322051b4f507809fd266",
-    "device_name": "localhost"
   }
 }
