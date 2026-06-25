@@ -23,8 +23,8 @@
     "activated": "2026-06-25T18:18:18.772544",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "9eaaa0a6292bf52eb2c57d068705f06576d77b4f534057b2372a142f0d2b9c86",
+    "device_name": "localhost"
   },
   "PXL-INT5-PXGO": {
     "license": "PXL-INT5-PXGO",
