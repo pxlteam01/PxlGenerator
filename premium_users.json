@@ -5,5 +5,14 @@
     "activated": "2026-06-25T11:50:00.755682",
     "added_by": "admin",
     "status": "active"
+  },
+  "VN35G-4I7K3-DBT4O-F6MFS": {
+    "license": "VN35G-4I7K3-DBT4O-F6MFS",
+    "expiry": "2026-06-26T15:32:28.799284",
+    "activated": "2026-06-25T15:32:28.799356",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
