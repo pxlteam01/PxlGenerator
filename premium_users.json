@@ -34,5 +34,14 @@
     "status": "active",
     "device_hwid": "0a8756b175713f8e6ed5cfd61078dc32f6e338c90b6cbea6f353fe523739808f",
     "device_name": "localhost"
+  },
+  "PXL-LEXI-A6F5": {
+    "license": "PXL-LEXI-A6F5",
+    "expiry": "2026-07-22T23:59:59.000000",
+    "activated": "2026-06-25T20:37:36.848394",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": "8143b6c5ba6e7d92515c8279ff033bb2a640d96193b8f4d7de6f780d0279dcfe",
+    "device_name": "localhost"
   }
 }
