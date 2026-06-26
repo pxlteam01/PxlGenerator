@@ -79,5 +79,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "NCMYR-U2IBH-QU0SJ-6TMUJ": {
+    "license": "NCMYR-U2IBH-QU0SJ-6TMUJ",
+    "expiry": "2026-07-03T20:19:30.422858",
+    "activated": "2026-06-26T20:19:30.422925",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
