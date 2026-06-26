@@ -52,5 +52,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "MANZYOWYE12": {
+    "license": "MANZYOWYE12",
+    "expiry": "Permanent",
+    "activated": "2026-06-26T10:26:22.883537",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
