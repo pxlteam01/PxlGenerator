@@ -32,8 +32,8 @@
     "activated": "2026-06-25T20:51:43.600977",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "0f1b94ac31c631581a9219e88f02b47c808b1988bb6b8f6e2acc975a65e464da",
+    "device_name": "localhost"
   },
   "AULZ-ZERO-GEN6": {
     "license": "AULZ-ZERO-GEN6",
@@ -43,14 +43,5 @@
     "status": "active",
     "device_hwid": "563abff5d9af20f3d4ee6fb7fe91227b82a19e40fbe517daac18b0ce14ab560d",
     "device_name": "localhost"
-  },
-  "LGOZL-F82UR-CCWVP-SRWPZ": {
-    "license": "LGOZL-F82UR-CCWVP-SRWPZ",
-    "expiry": "2026-07-26T08:58:04.430437",
-    "activated": "2026-06-26T08:58:04.430613",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
   }
 }
