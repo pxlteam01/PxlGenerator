@@ -80,6 +80,15 @@
     "device_hwid": "a1b5bc72302c43dd92cfbc74c7141e9a1229ce2b4b5ed4e58ce3615a8a3bb29c",
     "device_name": "localhost"
   },
+  "OMEYA-QFMJL-DA3EV-XOY8R": {
+    "license": "OMEYA-QFMJL-DA3EV-XOY8R",
+    "expiry": "2026-06-30T13:00:40.811661",
+    "activated": "2026-06-27T13:00:40.811725",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
+  },
   "TFUBW-Q4YTD-Z8S21-2ZRNK": {
     "license": "TFUBW-Q4YTD-Z8S21-2ZRNK",
     "expiry": "2026-06-30T14:16:41.944640",
