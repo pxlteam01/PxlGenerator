@@ -88,5 +88,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "TFUBW-Q4YTD-Z8S21-2ZRNK": {
+    "license": "TFUBW-Q4YTD-Z8S21-2ZRNK",
+    "expiry": "2026-06-30T14:16:41.944640",
+    "activated": "2026-06-27T14:16:41.944704",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
