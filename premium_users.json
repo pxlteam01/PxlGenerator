@@ -107,10 +107,10 @@
     "device_hwid": null,
     "device_name": null
   },
-  "MILZ-PXL-3DAY": {
-    "license": "MILZ-PXL-3DAY",
-    "expiry": "2026-07-02T23:21:32.792596",
-    "activated": "2026-06-29T23:21:32.792700",
+  "MILZ-3D-WKWK": {
+    "license": "MILZ-3D-WKWK",
+    "expiry": "Permanent",
+    "activated": "2026-06-29T23:22:17.973259",
     "added_by": "admin",
     "status": "active",
     "device_hwid": null,
