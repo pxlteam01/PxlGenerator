@@ -116,10 +116,10 @@
     "device_hwid": null,
     "device_name": null
   },
-  "MILZ-TRIAL-3D": {
-    "license": "MILZ-TRIAL-3D",
-    "expiry": "2026-09-27T23:25:59.987383",
-    "activated": "2026-06-29T23:25:59.987418",
+  "MILZ-PXL-3D": {
+    "license": "MILZ-PXL-3D",
+    "expiry": "2026-07-29T23:26:58.667351",
+    "activated": "2026-06-29T23:26:58.667577",
     "added_by": "admin",
     "status": "active",
     "device_hwid": null,
