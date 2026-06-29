@@ -116,10 +116,10 @@
     "device_hwid": null,
     "device_name": null
   },
-  "T4SIG-M4Z34-8Z3XM-FCVV4": {
-    "license": "T4SIG-M4Z34-8Z3XM-FCVV4",
-    "expiry": "Permanent",
-    "activated": "2026-06-29T23:24:40.133731",
+  "MILZ-TRIAL-3D": {
+    "license": "MILZ-TRIAL-3D",
+    "expiry": "2026-09-27T23:25:59.987383",
+    "activated": "2026-06-29T23:25:59.987418",
     "added_by": "admin",
     "status": "active",
     "device_hwid": null,
