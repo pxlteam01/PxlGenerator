@@ -113,22 +113,13 @@
     "activated": "2026-06-29T23:22:17.973259",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "0cc5a593e8ef1fec2f041faba5dbc354eeb9c4cae85df3246385f48c63983a43",
+    "device_name": "localhost"
   },
   "FMVBF-B2LLW-5DU9V-HBFXI": {
     "license": "FMVBF-B2LLW-5DU9V-HBFXI",
     "expiry": "2026-07-29T23:27:30.324958",
     "activated": "2026-06-29T23:27:30.325074",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
-  },
-  "UXYPL-J1PTF-OVY9E-KKJUV": {
-    "license": "UXYPL-J1PTF-OVY9E-KKJUV",
-    "expiry": "Permanent",
-    "activated": "2026-06-30T07:47:33.062550",
     "added_by": "admin",
     "status": "active",
     "device_hwid": null,
