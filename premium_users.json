@@ -140,16 +140,7 @@
     "activated": "2026-06-30T08:35:12.208356",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
-  },
-  "MILZ-LICENCE-NEW": {
-    "license": "MILZ-LICENCE-NEW",
-    "expiry": "Permanent",
-    "activated": "2026-06-30T08:44:50.486382",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "fd4520afa3b5b3403795e39fa834516599c81276e501c74e87deba38fa1e49c8",
+    "device_name": "localhost"
   }
 }
