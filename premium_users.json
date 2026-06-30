@@ -124,5 +124,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "77ICW-02WE0-2ZVT3-E6MPY": {
+    "license": "77ICW-02WE0-2ZVT3-E6MPY",
+    "expiry": "Permanent",
+    "activated": "2026-06-30T07:55:12.717774",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
