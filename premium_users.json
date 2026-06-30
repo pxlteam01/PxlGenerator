@@ -14,8 +14,8 @@
     "activated": "2026-06-25T15:54:33.371993",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": "b6e7e6787be11461355008d6d9e3691e99140744c663771a03617336753c9e8f",
-    "device_name": "localhost"
+    "device_hwid": null,
+    "device_name": null
   },
   "PXL-ONT5-GB56-MT51": {
     "license": "PXL-ONT5-GB56-MT51",
@@ -142,14 +142,5 @@
     "status": "active",
     "device_hwid": "fd4520afa3b5b3403795e39fa834516599c81276e501c74e87deba38fa1e49c8",
     "device_name": "localhost"
-  },
-  "7I8ON-4422Z-5NGX9-FOPWQ": {
-    "license": "7I8ON-4422Z-5NGX9-FOPWQ",
-    "expiry": "Permanent",
-    "activated": "2026-06-30T21:48:44.367090",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
   }
 }
