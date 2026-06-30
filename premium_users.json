@@ -142,5 +142,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "PH0KC-2GCPP-3SRO8-7JTCA": {
+    "license": "PH0KC-2GCPP-3SRO8-7JTCA",
+    "expiry": "Permanent",
+    "activated": "2026-06-30T08:43:51.997776",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
