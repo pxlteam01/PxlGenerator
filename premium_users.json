@@ -133,5 +133,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "NLXBU-K6N2W-CZRTD-KUZCE": {
+    "license": "NLXBU-K6N2W-CZRTD-KUZCE",
+    "expiry": "Permanent",
+    "activated": "2026-06-30T08:32:58.055568",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
