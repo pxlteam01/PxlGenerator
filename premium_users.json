@@ -14,8 +14,8 @@
     "activated": "2026-06-25T15:54:33.371993",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "4e8746ea51841888e1b219e23c4eada021b5250294eff1cbf420d9c930abd711",
+    "device_name": "localhost"
   },
   "PXL-ONT5-GB56-MT51": {
     "license": "PXL-ONT5-GB56-MT51",
