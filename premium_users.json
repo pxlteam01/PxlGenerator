@@ -142,5 +142,14 @@
     "status": "active",
     "device_hwid": "d7b02fda5a1fa18aece392561ad7190f6b4129864ad9f45dfe46c7b04cf7cfe8",
     "device_name": "localhost"
+  },
+  "AVGBO-IWGCI-6OONE-XRMCL": {
+    "license": "AVGBO-IWGCI-6OONE-XRMCL",
+    "expiry": "Permanent",
+    "activated": "2026-07-01T11:16:17.624449",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
