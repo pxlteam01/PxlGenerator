@@ -169,5 +169,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "SANZ12345678": {
+    "license": "SANZ12345678",
+    "expiry": "Permanent",
+    "activated": "2026-07-01T14:40:40.769191",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
