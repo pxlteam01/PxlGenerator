@@ -185,8 +185,8 @@
     "activated": "2026-07-01T14:45:09.593361",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "a14a55b668ba12fd809adb7aefdb65143cd20e2ffb8d43190a8648d31541bdd7",
+    "device_name": "localhost"
   },
   "SHOQV-0437D-E9MRR-CKF6G": {
     "license": "SHOQV-0437D-E9MRR-CKF6G",
