@@ -142,5 +142,14 @@
     "status": "active",
     "device_hwid": null,
     "device_name": null
+  },
+  "TVB5P-8AMKQ-SOKIL-JCA1X": {
+    "license": "TVB5P-8AMKQ-SOKIL-JCA1X",
+    "expiry": "Permanent",
+    "activated": "2026-07-01T09:00:44.327839",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
