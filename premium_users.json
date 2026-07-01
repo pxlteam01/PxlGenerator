@@ -140,7 +140,7 @@
     "activated": "2026-07-01T11:44:12.693075",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "d5d8c4d0246105bec21fe00015f723a7ed35c1570f12333083d8bd780fed5a00",
+    "device_name": "localhost"
   }
 }
