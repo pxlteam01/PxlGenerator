@@ -77,8 +77,8 @@
     "activated": "2026-06-26T18:22:30.621576",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": "a1b5bc72302c43dd92cfbc74c7141e9a1229ce2b4b5ed4e58ce3615a8a3bb29c",
-    "device_name": "localhost"
+    "device_hwid": null,
+    "device_name": null
   },
   "8RWZH-BLXH7-U5COO-XJQKJ": {
     "license": "8RWZH-BLXH7-U5COO-XJQKJ",
