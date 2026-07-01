@@ -133,5 +133,14 @@
     "status": "active",
     "device_hwid": "fd4520afa3b5b3403795e39fa834516599c81276e501c74e87deba38fa1e49c8",
     "device_name": "localhost"
+  },
+  "MILZ-TRIAL-3D": {
+    "license": "MILZ-TRIAL-3D",
+    "expiry": "2026-07-04T07:04:09.154803",
+    "activated": "2026-07-01T07:04:09.154878",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
