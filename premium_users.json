@@ -104,8 +104,8 @@
     "activated": "2026-06-29T23:22:17.973259",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "0cc5a593e8ef1fec2f041faba5dbc354eeb9c4cae85df3246385f48c63983a43",
+    "device_name": "localhost"
   },
   "FMVBF-B2LLW-5DU9V-HBFXI": {
     "license": "FMVBF-B2LLW-5DU9V-HBFXI",
@@ -133,5 +133,14 @@
     "status": "active",
     "device_hwid": "fd4520afa3b5b3403795e39fa834516599c81276e501c74e87deba38fa1e49c8",
     "device_name": "localhost"
+  },
+  "DFNFD-ITVE4-LCNIX-D9WQR": {
+    "license": "DFNFD-ITVE4-LCNIX-D9WQR",
+    "expiry": "2026-07-04T07:07:14.541271",
+    "activated": "2026-07-01T07:07:14.541351",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
