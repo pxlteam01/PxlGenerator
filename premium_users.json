@@ -80,15 +80,6 @@
     "device_hwid": "a1b5bc72302c43dd92cfbc74c7141e9a1229ce2b4b5ed4e58ce3615a8a3bb29c",
     "device_name": "localhost"
   },
-  "TFUBW-Q4YTD-Z8S21-2ZRNK": {
-    "license": "TFUBW-Q4YTD-Z8S21-2ZRNK",
-    "expiry": "2026-06-30T14:16:41.944640",
-    "activated": "2026-06-27T14:16:41.944704",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
-  },
   "8RWZH-BLXH7-U5COO-XJQKJ": {
     "license": "8RWZH-BLXH7-U5COO-XJQKJ",
     "expiry": "2026-06-30T20:11:06.991928",
@@ -142,14 +133,5 @@
     "status": "active",
     "device_hwid": "d7b02fda5a1fa18aece392561ad7190f6b4129864ad9f45dfe46c7b04cf7cfe8",
     "device_name": "localhost"
-  },
-  "AVGBO-IWGCI-6OONE-XRMCL": {
-    "license": "AVGBO-IWGCI-6OONE-XRMCL",
-    "expiry": "Permanent",
-    "activated": "2026-07-01T11:16:17.624449",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
   }
 }
