@@ -113,8 +113,8 @@
     "activated": "2026-06-29T23:27:30.325074",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "1b201e5fc223f1f5013314e0304029a368bf185bea59da4bc852ec66aafda688",
+    "device_name": "localhost"
   },
   "77ICW-02WE0-2ZVT3-E6MPY": {
     "license": "77ICW-02WE0-2ZVT3-E6MPY",
@@ -138,15 +138,6 @@
     "license": "DFNFD-ITVE4-LCNIX-D9WQR",
     "expiry": "2026-07-04T07:07:14.541271",
     "activated": "2026-07-01T07:07:14.541351",
-    "added_by": "admin",
-    "status": "active",
-    "device_hwid": null,
-    "device_name": null
-  },
-  "TVB5P-8AMKQ-SOKIL-JCA1X": {
-    "license": "TVB5P-8AMKQ-SOKIL-JCA1X",
-    "expiry": "Permanent",
-    "activated": "2026-07-01T09:00:44.327839",
     "added_by": "admin",
     "status": "active",
     "device_hwid": null,
