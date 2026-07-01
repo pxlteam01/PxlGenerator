@@ -152,10 +152,19 @@
     "device_hwid": null,
     "device_name": null
   },
-  "C2GYM-K7SF4-35W7Z-BPD5O": {
-    "license": "C2GYM-K7SF4-35W7Z-BPD5O",
+  "O4JVF-N0X6E-M0HG4-TEU43": {
+    "license": "O4JVF-N0X6E-M0HG4-TEU43",
     "expiry": "Permanent",
-    "activated": "2026-07-01T14:32:39.378115",
+    "activated": "2026-07-01T14:27:48.371189",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
+  },
+  "D4YCN-9KAO6-JBX6B-0ASKE": {
+    "license": "D4YCN-9KAO6-JBX6B-0ASKE",
+    "expiry": "Permanent",
+    "activated": "2026-07-01T14:35:32.453970",
     "added_by": "admin",
     "status": "active",
     "device_hwid": null,
