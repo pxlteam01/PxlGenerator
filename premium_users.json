@@ -196,5 +196,14 @@
     "status": "active",
     "device_hwid": "1516a4841f536bee6476bdd93821fca2cf63fb3b852bab6cdf1b56621d70588b",
     "device_name": "localhost"
+  },
+  "SANN-JADI-ADMIN": {
+    "license": "SANN-JADI-ADMIN",
+    "expiry": "Permanent",
+    "activated": "2026-07-02T05:32:50.686835",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
