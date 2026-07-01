@@ -95,8 +95,8 @@
     "activated": "2026-06-29T23:22:17.973259",
     "added_by": "admin",
     "status": "active",
-    "device_hwid": null,
-    "device_name": null
+    "device_hwid": "0cc5a593e8ef1fec2f041faba5dbc354eeb9c4cae85df3246385f48c63983a43",
+    "device_name": "localhost"
   },
   "FMVBF-B2LLW-5DU9V-HBFXI": {
     "license": "FMVBF-B2LLW-5DU9V-HBFXI",
@@ -133,5 +133,14 @@
     "status": "active",
     "device_hwid": "d7b02fda5a1fa18aece392561ad7190f6b4129864ad9f45dfe46c7b04cf7cfe8",
     "device_name": "localhost"
+  },
+  "MILZ-SC-BANSOS": {
+    "license": "MILZ-SC-BANSOS",
+    "expiry": "Permanent",
+    "activated": "2026-07-01T11:18:42.343749",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
