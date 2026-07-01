@@ -35,6 +35,15 @@
     "device_hwid": "0f1b94ac31c631581a9219e88f02b47c808b1988bb6b8f6e2acc975a65e464da",
     "device_name": "localhost"
   },
+  "AULZ-ZERO-GEN6": {
+    "license": "AULZ-ZERO-GEN6",
+    "expiry": "2026-06-28T22:35:38.571215",
+    "activated": "2026-06-25T22:35:38.571285",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": "563abff5d9af20f3d4ee6fb7fe91227b82a19e40fbe517daac18b0ce14ab560d",
+    "device_name": "localhost"
+  },
   "SEUW3-BKGZL-95KIF-S7R7W": {
     "license": "SEUW3-BKGZL-95KIF-S7R7W",
     "expiry": "2026-07-07T09:07:39.980205",
@@ -124,5 +133,14 @@
     "status": "active",
     "device_hwid": "d7b02fda5a1fa18aece392561ad7190f6b4129864ad9f45dfe46c7b04cf7cfe8",
     "device_name": "localhost"
+  },
+  "KEY-KHUSUS-ADMIN": {
+    "license": "KEY-KHUSUS-ADMIN",
+    "expiry": "Permanent",
+    "activated": "2026-07-01T11:44:12.693075",
+    "added_by": "admin",
+    "status": "active",
+    "device_hwid": null,
+    "device_name": null
   }
 }
